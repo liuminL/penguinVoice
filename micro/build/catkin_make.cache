@@ -1,0 +1,2 @@
+awaken2:centre:hori_horn:hori_voicecenter:xfmic
+-DCATKIN_DEVEL_PREFIX=/Music/qr_voice/micro/devel -DCMAKE_INSTALL_PREFIX=/Music/qr_voice/micro/install -G Unix Makefiles

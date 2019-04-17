@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Music/qr_voice/micro/src/awaken2/include/msp_cmn.h
+msp_types.h
+/Music/qr_voice/micro/src/awaken2/include/msp_types.h
+
+/Music/qr_voice/micro/src/awaken2/include/msp_errors.h
+
+/Music/qr_voice/micro/src/awaken2/include/msp_types.h
+
+/Music/qr_voice/micro/src/awaken2/include/qivw.h
+msp_types.h
+/Music/qr_voice/micro/src/awaken2/include/msp_types.h
+
+/Music/qr_voice/micro/src/awaken2/src/awaken_sample.cpp
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+errno.h
+-
+msp_cmn.h
+/Music/qr_voice/micro/src/awaken2/src/msp_cmn.h
+qivw.h
+/Music/qr_voice/micro/src/awaken2/src/qivw.h
+msp_errors.h
+/Music/qr_voice/micro/src/awaken2/src/msp_errors.h
+

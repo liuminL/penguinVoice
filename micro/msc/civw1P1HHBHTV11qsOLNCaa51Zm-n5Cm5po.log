@@ -1,0 +1,83 @@
+============================================================
+Time  2019/04/15 17:40:02 465 
+============================================================
+[2019/04/15 17:40:02 465] ivw_local  1342 os_type is:  Linux  
+[2019/04/15 17:40:02 465] ivw_local  1351 ivw loaded!  
+[2019/04/15 17:40:02 465] ivw_local  1353 1001.60.1437  
+[2019/04/15 17:40:02 465] ivw_local  1286 SYS_MSG_REGCB  msp_status_cb  func(c40684f0) 
+[2019/04/15 17:40:02 465] ivw_local  1376 last gc at  1555321202  
+[2019/04/15 17:40:02 465] ivw_local  1097 IVW_LOCAL_INIT_CHECK  
+[2019/04/15 17:40:02 465] ivw_local  1103 ivw_res_path:  fo|res/ivw/wakeupresource.jet  
+[2019/04/15 17:40:02 465] ivw_local  732  lgi:  nil  nil  
+[2019/04/15 17:40:02 465] ivw_local  736  fo|res/ivw/wakeupresource.jet  1  
+[2019/04/15 17:40:02 466] ivw_local  527  err  0  
+[2019/04/15 17:40:02 466] ivw_local  528  res_ver  3  
+[2019/04/15 17:40:02 466] ivw_local  529  res_appid_md5    
+[2019/04/15 17:40:02 466] ivw_local  530  res_id    
+[2019/04/15 17:40:02 466] ivw_local  531  |%fsoniah%=|%fwwnc%=%2d0b4?fa%+%ubtnc%=%ed66d>306d0db64?ac55efcfcb5a4bc>%+%ubts~wb%=%c%z+%nqpphuc%=|%irj%=6+%phuct%=\|%nc%=7+%sbs%=%vn4b5vn4b5%+%soubtohkc%=6327zZz+%ubttn}b%=>?3?65+%ubtsnjb%=6223055>>4+%ubtqbu%=%q1777%z  
+[2019/04/15 17:40:02 466] ivw_local  539  speech_plus_setting  0  
+[2019/04/15 17:40:02 466] ivw_local  591  qi3e2qi3e2  0  1450  
+[2019/04/15 17:40:02 466] ivw_local  623  d  
+[2019/04/15 17:40:02 466] ivw_local  652  now expires:  1555321202  nil  
+[2019/04/15 17:40:02 466] auth       82   ivw  app  nil  bc11c9471c7ce138fd22badade2f3ed9  {"ivw":{"ver":"2","bus":{"expire_date":1558339441,"forbid":"0","nlimit":3},"res":{"md5":"bc11c9471c7ce138fd22badade2f3ed9","blist":{}}}}  
+[2019/04/15 17:40:02 466] auth       243  nil  
+[2019/04/15 17:40:02 466] auth       252  auth ivw_res_id  bc11c9471c7ce138fd22badade2f3ed9  
+[2019/04/15 17:40:02 466] auth       266  auth get ivw_res_id  bc11c9471c7ce138fd22badade2f3ed9  
+[2019/04/15 17:40:02 466] auth       354  nil  
+[2019/04/15 17:40:02 466] ivw_local  479  app auth  
+[2019/04/15 17:40:02 466] auth       612  ivw  table(c40400a0) nil  nil  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:40:02 466] auth       621  app  nil  nil  bc11c9471c7ce138fd22badade2f3ed9  
+[2019/04/15 17:40:02 467] auth       678  ath rquest  {"authorize":[{"ver":"2.1.1","busin":"ivw"}]}  
+[2019/04/15 17:40:02 467] transport  645  paramkvsport is   nil  
+[2019/04/15 17:40:02 467] transport  657  ns_enable=  1  
+[2019/04/15 17:40:02 467] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2019/04/15 17:40:02 467] transport  665  net.nettype=  unknown  
+[2019/04/15 17:40:02 467] transport  675  url.full=  nil  
+[2019/04/15 17:40:02 467] transport  676  urltmp=  nil  
+[2019/04/15 17:40:02 467] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2019/04/15 17:40:02 467] transport  708  url.full=  nil  
+[2019/04/15 17:40:02 467] transport  907  net type:  unknown  
+[2019/04/15 17:40:02 467] transport  908  net operator:  def  
+[2019/04/15 17:40:02 467] transport  909  use proxy:  false  
+[2019/04/15 17:40:02 467] auth       733  not login!  
+[2019/04/15 17:40:02 467] auth       570  [session] send auth request  
+[2019/04/15 17:40:02 467] transport  1107 session.domain=  open.xf-yun.com  
+[2019/04/15 17:40:02 467] transport  1108 url.host=  open.xf-yun.com  
+[2019/04/15 17:40:02 467] transport  1085 NAMESERVER START  
+[2019/04/15 17:40:02 467] transport  1088 name =   ath  
+[2019/04/15 17:40:02 467] ns         629  ntt=  unknown  
+[2019/04/15 17:40:02 467] transport  1091 trans,ns_inprog =  0  
+[2019/04/15 17:40:02 467] ns         585  name server start  
+[2019/04/15 17:40:02 467] ns         586  ns_sub =   ath  
+[2019/04/15 17:40:02 467] ns         588  ns_host=  open.xf-yun.com  
+[2019/04/15 17:40:02 467] ns         479  ns_host=  open.xf-yun.com  
+[2019/04/15 17:40:02 467] ns         558  GET /sip/resolver?srand=0415174011.32 HTTP/1.1
+Host: hdns.xf-yun.com
+Connection: Keep-Alive
+X-Par: ver=1.3&appid=5c7e38af&operator=UNKNOW&nettype=STANDARD&cver=5.0.41.1218&svc=ath&host=open.xf-yun.com&sign=b4d429069814156679fd76cd48499070
+User-Agent: iFLYCloud
+
+  
+[2019/04/15 17:40:02 467] ns         559  net_type =  standard  
+[2019/04/15 17:40:02 467] ns         560  cmwapascmnet =  
+[2019/04/15 17:40:02 467] ns         561  uniwapasuninet =  
+[2019/04/15 17:40:02 467] ns         562  ctwapasctnet =  
+[2019/04/15 17:40:02 467] ns         579  host=  hdns.xf-yun.com  
+[2019/04/15 17:40:02 467] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2019/04/15 17:40:02 467] auth       577  0  
+[2019/04/15 17:40:02 467] auth       540  lver:  nil  
+[2019/04/15 17:40:02 467] auth       545  cfg_ver:  nil  
+[2019/04/15 17:40:02 467] transport  1858 transport_obj.send | in  
+[2019/04/15 17:40:02 467] transport  1864 self.msg_flag_q  table(c402e9c0) 
+[2019/04/15 17:40:02 467] transport  1865 self.msg_q  table(c402c600) 
+[2019/04/15 17:40:02 467] transport  1797 transport_obj.try2send | in  
+[2019/04/15 17:40:02 467] transport  1798 self.soc  nil  
+[2019/04/15 17:40:02 467] transport  1799 self.connected  false  
+[2019/04/15 17:40:02 467] transport  1800 self.latesterr  0  
+[2019/04/15 17:40:02 467] transport  1871 transport_obj.send | out  
+[2019/04/15 17:40:02 467] ivw_local  703  forbid_ivw =  0  
+[2019/04/15 17:40:02 467] ivw_local  1136 0  res/ivw/wakeupresource.jet  nil  nil  227  0  0  0:1450;  0:qi3e2qi3e2;  
+[2019/04/15 17:40:02 474] ivw_local  1334 IVW_LOCAL_INSTSID param0 param1  civw1P1HHBHTV11qsOLNCaa51Zm-n5Cm5po  udata(ff97e450) 
+[2019/04/15 17:40:02 474] ivw_local  1376 last gc at  1555321202  
+[2019/04/15 17:40:04 488] ivw_local  1263 SYS_MSG_UNLOAD  
+[2019/04/15 17:40:04 488] ivw_local  1376 last gc at  1555321202  

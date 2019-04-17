@@ -1,0 +1,8 @@
+prefix=/Music/qr_voice/micro/devel
+
+Name: awaken2
+Description: Description of awaken2
+Version: 0.0.0
+Cflags: 
+Libs: -L/Music/qr_voice/micro/devel/lib 
+Requires: 

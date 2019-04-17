@@ -1,0 +1,25 @@
+============================================================
+Time  2019/04/09 15:38:02 079 
+============================================================
+[2019/04/09 15:38:02 079] ivw_local  1342 os_type is:  Linux  
+[2019/04/09 15:38:02 079] ivw_local  1351 ivw loaded!  
+[2019/04/09 15:38:02 079] ivw_local  1353 1001.60.1437  
+[2019/04/09 15:38:02 079] ivw_local  1286 SYS_MSG_REGCB  msp_status_cb  func(d00684f0) 
+[2019/04/09 15:38:02 079] ivw_local  1376 last gc at  1554795482  
+[2019/04/09 15:38:02 079] ivw_local  1097 IVW_LOCAL_INIT_CHECK  
+[2019/04/09 15:38:02 080] ivw_local  1103 ivw_res_path:  fo|res/ivw/wakeupresource.jet  
+[2019/04/09 15:38:02 080] ivw_local  732  lgi:  nil  nil  
+[2019/04/09 15:38:02 080] ivw_local  736  fo|res/ivw/wakeupresource.jet  1  
+[2019/04/09 15:38:02 080] ivw_local  527  err  0  
+[2019/04/09 15:38:02 080] ivw_local  528  res_ver  3  
+[2019/04/09 15:38:02 080] ivw_local  529  res_appid_md5    
+[2019/04/09 15:38:02 080] ivw_local  530  res_id    
+[2019/04/09 15:38:02 080] ivw_local  531  |%fsoniah%=|%fwwnc%=%2d0b4?fa%+%ubtnc%=%ed66d>306d0db64?ac55efcfcb5a4bc>%+%ubts~wb%=%c%z+%nqpphuc%=|%irj%=6+%phuct%=\|%nc%=7+%sbs%=%vn4b5vn4b5%+%soubtohkc%=6327zZz+%ubttn}b%=>?3?65+%ubtsnjb%=6223055>>4+%ubtqbu%=%q1777%z  
+[2019/04/09 15:38:02 080] ivw_local  539  speech_plus_setting  0  
+[2019/04/09 15:38:02 080] ivw_local  591  qi3e2qi3e2  0  1450  
+[2019/04/09 15:38:02 080] ivw_local  623  d  
+[2019/04/09 15:38:02 080] ivw_local  629  appid not match  5b9384aa  5c7e38af  
+[2019/04/09 15:38:02 080] ivw_local  752  res check failed! ret=  11210  
+[2019/04/09 15:38:02 080] ivw_local  1113 init_check err:  11210  
+[2019/04/09 15:38:02 080] ivw_local  1263 SYS_MSG_UNLOAD  
+[2019/04/09 15:38:02 080] ivw_local  1376 last gc at  1554795482  

@@ -1,0 +1,1652 @@
+============================================================
+Time  2019/04/09 15:04:30 086 
+============================================================
+[2019/04/09 15:04:30 086] lgi        676  SYS_MSG_LOAD  
+[2019/04/09 15:04:30 087] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(f00538c0) 
+[2019/04/09 15:04:30 088] lgi        292  LGI_MSG_INIT  
+[2019/04/09 15:04:30 088] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/09 15:04:30 088] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/09 15:04:30 088] lgi        349  auth_time_str=  2019/04/09 15:04:30  
+[2019/04/09 15:04:30 088] lgi        355  auth_appid=  5c7e38af  
+[2019/04/09 15:04:30 089] lgi        380  lgi ivwnet_querying  
+[2019/04/09 15:04:30 089] lgi        395  token:  nil  
+[2019/04/09 15:04:30 089] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/09 15:04:30 089] lgi        511  ns_enable=  1  
+[2019/04/09 15:04:30 089] lgi        523  prot_ver=1  
+[2019/04/09 15:04:30 089] lgi        534  prot_type=tcp  
+[2019/04/09 15:04:30 090] lgi        685  SYS_MSG_UNLOAD  go bg!  
+[2019/04/09 15:04:34 149] lgi        689  SYS_MSG_SHUTDOWN  
+============================================================
+Time  2019/04/09 15:38:02 075 
+============================================================
+[2019/04/09 15:38:02 075] lgi        676  SYS_MSG_LOAD  
+[2019/04/09 15:38:02 076] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(c8053880) 
+[2019/04/09 15:38:02 076] lgi        292  LGI_MSG_INIT  
+[2019/04/09 15:38:02 076] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/09 15:38:02 076] lgi        335  lgi params:  appid = 5b9384aa,work_dir = .  
+[2019/04/09 15:38:02 076] lgi        349  auth_time_str=  2019/04/09 15:38:02  
+[2019/04/09 15:38:02 076] lgi        355  auth_appid=  5b9384aa  
+[2019/04/09 15:38:02 076] lgi        380  lgi ivwnet_querying  
+[2019/04/09 15:38:02 076] lgi        395  token:  nil  
+[2019/04/09 15:38:02 076] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/09 15:38:02 076] lgi        511  ns_enable=  1  
+[2019/04/09 15:38:02 076] lgi        523  prot_ver=1  
+[2019/04/09 15:38:02 076] lgi        534  prot_type=tcp  
+[2019/04/09 15:38:02 076] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/09 15:39:00 854 
+============================================================
+[2019/04/09 15:39:00 854] lgi        676  SYS_MSG_LOAD  
+[2019/04/09 15:39:00 855] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(78013aa0) 
+[2019/04/09 15:39:00 855] lgi        292  LGI_MSG_INIT  
+[2019/04/09 15:39:00 855] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/09 15:39:00 855] lgi        335  lgi params:  appid = 5b9384aa,work_dir = .  
+[2019/04/09 15:39:00 855] lgi        349  auth_time_str=  2019/04/09 15:39:00  
+[2019/04/09 15:39:00 855] lgi        355  auth_appid=  5b9384aa  
+[2019/04/09 15:39:00 855] lgi        380  lgi ivwnet_querying  
+[2019/04/09 15:39:00 855] lgi        395  token:  nil  
+[2019/04/09 15:39:00 855] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/09 15:39:00 855] lgi        511  ns_enable=  1  
+[2019/04/09 15:39:00 855] lgi        523  prot_ver=1  
+[2019/04/09 15:39:00 855] lgi        534  prot_type=tcp  
+[2019/04/09 15:39:00 855] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/09 15:45:09 717 
+============================================================
+[2019/04/09 15:45:09 717] lgi        676  SYS_MSG_LOAD  
+[2019/04/09 15:45:09 717] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(d0053890) 
+[2019/04/09 15:45:09 717] lgi        292  LGI_MSG_INIT  
+[2019/04/09 15:45:09 717] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/09 15:45:09 717] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/09 15:45:09 717] lgi        349  auth_time_str=  2019/04/09 15:45:09  
+[2019/04/09 15:45:09 717] lgi        355  auth_appid=  5c7e38af  
+[2019/04/09 15:45:09 718] lgi        380  lgi ivwnet_querying  
+[2019/04/09 15:45:09 718] lgi        395  token:  nil  
+[2019/04/09 15:45:09 718] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/09 15:45:09 718] lgi        511  ns_enable=  1  
+[2019/04/09 15:45:09 718] lgi        523  prot_ver=1  
+[2019/04/09 15:45:09 718] lgi        534  prot_type=tcp  
+[2019/04/09 15:45:09 718] lgi        685  SYS_MSG_UNLOAD  go bg!  
+[2019/04/09 15:45:12 718] lgi        590  LGI_MSG_START, caller =  cloud_cisr1P1HHBHTFd9ltrwf9aa1OlP++P5lmpG  
+[2019/04/09 15:45:12 718] lgi        596  lgistat =   0  
+[2019/04/09 15:45:12 718] lgi        622  lgi_auth_id =  nil  
+[2019/04/09 15:45:12 718] transport  645  paramkvsport is   0  
+[2019/04/09 15:45:12 718] transport  657  ns_enable=  1  
+[2019/04/09 15:45:12 718] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2019/04/09 15:45:12 718] transport  665  net.nettype=  unknown  
+[2019/04/09 15:45:12 718] transport  675  url.full=  nil  
+[2019/04/09 15:45:12 718] transport  676  urltmp=  nil  
+[2019/04/09 15:45:12 718] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2019/04/09 15:45:12 718] transport  708  url.full=  nil  
+[2019/04/09 15:45:12 718] transport  907  net type:  unknown  
+[2019/04/09 15:45:12 718] transport  908  net operator:  def  
+[2019/04/09 15:45:12 718] transport  909  use proxy:  false  
+[2019/04/09 15:45:12 719] lgi        271  [session] send lgi request  
+[2019/04/09 15:45:12 719] transport  1107 session.domain=  open.xf-yun.com  
+[2019/04/09 15:45:12 719] transport  1108 url.host=  open.xf-yun.com  
+[2019/04/09 15:45:12 719] transport  1147 using nameserver ip:  42.62.116.19  
+[2019/04/09 15:45:12 719] transport  1178 try preferred port:  1028  
+[2019/04/09 15:45:12 719] transport  1303 [soc] connect   42.62.116.19  1028  
+[2019/04/09 15:45:12 719] transport  1315 mspsoc.open,prot_type=  tcp  
+[2019/04/09 15:45:12 719] lgi        238  lver:  nil  
+[2019/04/09 15:45:12 719] lgi        243  cfg_ver:  nil  
+[2019/04/09 15:45:12 719] transport  1858 transport_obj.send | in  
+[2019/04/09 15:45:12 719] transport  1864 self.msg_flag_q  table(d002a7f0) 
+[2019/04/09 15:45:12 719] transport  1865 self.msg_q  table(d002a7a0) 
+[2019/04/09 15:45:12 719] transport  1797 transport_obj.try2send | in  
+[2019/04/09 15:45:12 719] transport  1798 self.soc  udata(d0018408) 
+[2019/04/09 15:45:12 719] transport  1799 self.connected  false  
+[2019/04/09 15:45:12 719] transport  1800 self.latesterr  0  
+[2019/04/09 15:45:12 719] transport  1871 transport_obj.send | out  
+[2019/04/09 15:45:12 748] transport  473  [soc] [1] connected  
+[2019/04/09 15:45:12 749] transport  1797 transport_obj.try2send | in  
+[2019/04/09 15:45:12 749] transport  1798 self.soc  udata(d0018408) 
+[2019/04/09 15:45:12 749] transport  1799 self.connected  true  
+[2019/04/09 15:45:12 749] transport  1800 self.latesterr  0  
+[2019/04/09 15:45:12 749] transport  1817 transport:try2send,#msg_q=  1  
+[2019/04/09 15:45:12 749] transport  1358 build http request.  
+[2019/04/09 15:45:12 749] transport  1475 POST /msp.do HTTP/1.1
+X-Sub: auth
+X-Par: ver=MSSP+0%2E9&sub=auth&cmd=lgi&cver=5%2E0%2E41%2E1218&key=082Fen7NamMec=
+Host: open.xf-yun.com
+CT: multipart/mixed;boundary=--
+CL: 331
+
+----
+Content-Length:56
+Content-Type:text/appinfo
+Content-Encoding:gzip,encrypt/0.2
+
+C “i»ÖG‘òÅ  
+[2019/04/09 15:45:12 749] transport  1817 transport:try2send,#msg_q=  0  
+[2019/04/09 15:45:12 749] transport  482  [soc] [1] send ok  516  
+[2019/04/09 15:45:12 749] transport  1797 transport_obj.try2send | in  
+[2019/04/09 15:45:12 749] transport  1798 self.soc  udata(d0018408) 
+[2019/04/09 15:45:12 749] transport  1799 self.connected  true  
+[2019/04/09 15:45:12 749] transport  1800 self.latesterr  0  
+[2019/04/09 15:45:12 749] transport  1817 transport:try2send,#msg_q=  0  
+[2019/04/09 15:45:12 820] transport  494  [soc] [1] readable  
+[2019/04/09 15:45:12 820] transport  1765 HTTP/1.1 200 OK
+Content-Length: 1
+X-Req-Date: 2019/04/09 10:51:05 813
+X-Par: ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E41%2E1218&uid=d12795900899&key=0beM3hYtunaA7O8IKF^EDfiTDDX9PN1UvvLrZs3khSwt^^^GHVr44O7C8GTNtqZbS99qRSfT4gKRhVu93P2nPDlFW73c/ac8OU
+CT: text/plain
+CL: 1
+Content-Length: 1
+X-Res-Date: 2019/04/09 10:51:05 849
+
+0  
+[2019/04/09 15:45:12 820] transport  1493 a_complete_httpmessage  200  
+[2019/04/09 15:45:12 820] transport  1603 is_update  false  
+[2019/04/09 15:45:12 820] lgi        99   [trans] [id = lgi_] readable  
+[2019/04/09 15:45:12 820] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  42.62.116.18  
+[2019/04/09 15:45:12 820] transport  981  cached ip is confirmed  
+[2019/04/09 15:45:12 820] transport  1331 [soc] disconnect   
+[2019/04/09 15:45:12 820] transport  991  transport clean  
+[2019/04/09 15:45:12 820] lgi        130  lgi resp!  
+[2019/04/09 15:45:12 820] lgi        137  lgi ok!  
+[2019/04/09 15:45:12 820] lgi        145  unkown  d12795900899  
+[2019/04/09 15:45:12 820] lgi        69   notify_lgi_result, ret=0, loginid=d12795900899@5c7e38af  
+[2019/04/09 15:45:16 750] lgi        590  LGI_MSG_START, caller =  cloud_cisr1P1HHBHTFd9BtrdqUaw089H+zPrHkJTf  
+[2019/04/09 15:45:16 750] lgi        596  lgistat =   2  
+[2019/04/09 15:45:21 835] lgi        590  LGI_MSG_START, caller =  cloud_cisr1P1HHBHTFd9ptrPapad089H+zPrHkJTf  
+[2019/04/09 15:45:21 835] lgi        596  lgistat =   2  
+[2019/04/09 15:45:27 820] lgi        94   lgi_delaydie_timeout  
+============================================================
+Time  2019/04/09 16:17:03 608 
+============================================================
+[2019/04/09 16:17:03 608] lgi        676  SYS_MSG_LOAD  
+[2019/04/09 16:17:03 609] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(480538a0) 
+[2019/04/09 16:17:03 609] lgi        292  LGI_MSG_INIT  
+[2019/04/09 16:17:03 609] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/09 16:17:03 609] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/09 16:17:03 609] lgi        349  auth_time_str=  2019/04/09 16:17:03  
+[2019/04/09 16:17:03 609] lgi        355  auth_appid=  5c7e38af  
+[2019/04/09 16:17:03 609] lgi        380  lgi ivwnet_querying  
+[2019/04/09 16:17:03 609] lgi        395  token:  nil  
+[2019/04/09 16:17:03 609] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/09 16:17:03 609] lgi        511  ns_enable=  1  
+[2019/04/09 16:17:03 609] lgi        523  prot_ver=1  
+[2019/04/09 16:17:03 609] lgi        534  prot_type=tcp  
+[2019/04/09 16:17:03 609] lgi        685  SYS_MSG_UNLOAD  go bg!  
+[2019/04/09 16:17:05 810] lgi        590  LGI_MSG_START, caller =  cloud_cisr1P1HHBHTF1rHtcb8gaaW9hCSNBXnPzS  
+[2019/04/09 16:17:05 810] lgi        596  lgistat =   0  
+[2019/04/09 16:17:05 810] lgi        622  lgi_auth_id =  nil  
+[2019/04/09 16:17:05 810] transport  645  paramkvsport is   0  
+[2019/04/09 16:17:05 810] transport  657  ns_enable=  1  
+[2019/04/09 16:17:05 810] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2019/04/09 16:17:05 810] transport  665  net.nettype=  unknown  
+[2019/04/09 16:17:05 810] transport  675  url.full=  nil  
+[2019/04/09 16:17:05 810] transport  676  urltmp=  nil  
+[2019/04/09 16:17:05 810] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2019/04/09 16:17:05 810] transport  708  url.full=  nil  
+[2019/04/09 16:17:05 810] transport  907  net type:  unknown  
+[2019/04/09 16:17:05 810] transport  908  net operator:  def  
+[2019/04/09 16:17:05 810] transport  909  use proxy:  false  
+[2019/04/09 16:17:05 810] lgi        271  [session] send lgi request  
+[2019/04/09 16:17:05 810] transport  1107 session.domain=  open.xf-yun.com  
+[2019/04/09 16:17:05 810] transport  1108 url.host=  open.xf-yun.com  
+[2019/04/09 16:17:05 810] transport  1147 using nameserver ip:  42.62.116.34  
+[2019/04/09 16:17:05 810] transport  1178 try preferred port:  1028  
+[2019/04/09 16:17:05 810] transport  1303 [soc] connect   42.62.116.34  1028  
+[2019/04/09 16:17:05 811] transport  1315 mspsoc.open,prot_type=  tcp  
+[2019/04/09 16:17:05 812] lgi        238  lver:  nil  
+[2019/04/09 16:17:05 812] lgi        243  cfg_ver:  nil  
+[2019/04/09 16:17:05 812] transport  1858 transport_obj.send | in  
+[2019/04/09 16:17:05 812] transport  1864 self.msg_flag_q  table(48005d90) 
+[2019/04/09 16:17:05 812] transport  1865 self.msg_q  table(48018890) 
+[2019/04/09 16:17:05 812] transport  1797 transport_obj.try2send | in  
+[2019/04/09 16:17:05 812] transport  1798 self.soc  udata(48018518) 
+[2019/04/09 16:17:05 812] transport  1799 self.connected  false  
+[2019/04/09 16:17:05 812] transport  1800 self.latesterr  0  
+[2019/04/09 16:17:05 812] transport  1871 transport_obj.send | out  
+[2019/04/09 16:17:05 840] transport  473  [soc] [1] connected  
+[2019/04/09 16:17:05 840] transport  1797 transport_obj.try2send | in  
+[2019/04/09 16:17:05 840] transport  1798 self.soc  udata(48018518) 
+[2019/04/09 16:17:05 840] transport  1799 self.connected  true  
+[2019/04/09 16:17:05 840] transport  1800 self.latesterr  0  
+[2019/04/09 16:17:05 840] transport  1817 transport:try2send,#msg_q=  1  
+[2019/04/09 16:17:05 840] transport  1358 build http request.  
+[2019/04/09 16:17:05 840] transport  1475 POST /msp.do HTTP/1.1
+X-Sub: auth
+X-Par: ver=MSSP+0%2E9&sub=auth&cmd=lgi&cver=5%2E0%2E41%2E1218&key=082Fen7NamMec=
+Host: open.xf-yun.com
+CT: multipart/mixed;boundary=--
+CL: 331
+
+----
+Content-Length:56
+Content-Type:text/appinfo
+Content-Encoding:gzip,encrypt/0.2
+
+C “i»ÖG‘òÅ  
+[2019/04/09 16:17:05 840] transport  1817 transport:try2send,#msg_q=  0  
+[2019/04/09 16:17:05 840] transport  482  [soc] [1] send ok  516  
+[2019/04/09 16:17:05 840] transport  1797 transport_obj.try2send | in  
+[2019/04/09 16:17:05 840] transport  1798 self.soc  udata(48018518) 
+[2019/04/09 16:17:05 840] transport  1799 self.connected  true  
+[2019/04/09 16:17:05 840] transport  1800 self.latesterr  0  
+[2019/04/09 16:17:05 840] transport  1817 transport:try2send,#msg_q=  0  
+[2019/04/09 16:17:05 890] transport  494  [soc] [1] readable  
+[2019/04/09 16:17:05 891] transport  1765 HTTP/1.1 200 OK
+Content-Length: 1
+X-Req-Date: 2019/04/09 11:25:52 823
+X-Par: ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E41%2E1218&uid=d12795900899&key=0bgiu6LC7RjBgeNbbten/MKGJlx4zbnvR2luMBaiYJRxC^^GHVr44O7C8GTNtqZbS99qRSfT4gKRhVu93P2nPDlFW73c/ac8OU
+CT: text/plain
+CL: 1
+Content-Length: 1
+X-Res-Date: 2019/04/09 11:25:52 840
+
+0  
+[2019/04/09 16:17:05 891] transport  1493 a_complete_httpmessage  200  
+[2019/04/09 16:17:05 891] transport  1603 is_update  false  
+[2019/04/09 16:17:05 891] lgi        99   [trans] [id = lgi_] readable  
+[2019/04/09 16:17:05 891] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  42.62.116.19  
+[2019/04/09 16:17:05 891] transport  981  cached ip is confirmed  
+[2019/04/09 16:17:05 891] transport  1331 [soc] disconnect   
+[2019/04/09 16:17:05 891] transport  991  transport clean  
+[2019/04/09 16:17:05 891] lgi        130  lgi resp!  
+[2019/04/09 16:17:05 891] lgi        137  lgi ok!  
+[2019/04/09 16:17:05 891] lgi        145  unkown  d12795900899  
+[2019/04/09 16:17:05 891] lgi        69   notify_lgi_result, ret=0, loginid=d12795900899@5c7e38af  
+[2019/04/09 16:17:07 207] lgi        590  LGI_MSG_START, caller =  cloud_cisr1P1HHBHTF1rwtcyuiawCXJ1BF09MP+jaf  
+[2019/04/09 16:17:07 207] lgi        596  lgistat =   2  
+[2019/04/09 16:17:10 539] lgi        590  LGI_MSG_START, caller =  cloud_cisr1P1HHBHTF1rPtcNHfadu8Oa4VuvmHbCaf  
+[2019/04/09 16:17:10 539] lgi        596  lgistat =   2  
+[2019/04/09 16:17:14 259] lgi        590  LGI_MSG_START, caller =  cloud_cisr1P1HHBHTF1r0tcNS8a1PESlw2kbPPapaf  
+[2019/04/09 16:17:14 259] lgi        596  lgistat =   2  
+[2019/04/09 16:17:20 891] lgi        94   lgi_delaydie_timeout  
+============================================================
+Time  2019/04/14 18:51:13 306 
+============================================================
+[2019/04/14 18:51:13 306] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 18:51:13 321] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(180538a0) 
+[2019/04/14 18:51:13 321] lgi        292  LGI_MSG_INIT  
+[2019/04/14 18:51:13 321] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 18:51:13 321] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 18:51:13 321] lgi        349  auth_time_str=  2019/04/14 18:51:13  
+[2019/04/14 18:51:13 321] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 18:51:13 322] lgi        380  lgi ivwnet_querying  
+[2019/04/14 18:51:13 322] lgi        395  token:  nil  
+[2019/04/14 18:51:13 322] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 18:51:13 322] lgi        511  ns_enable=  1  
+[2019/04/14 18:51:13 322] lgi        523  prot_ver=1  
+[2019/04/14 18:51:13 322] lgi        534  prot_type=tcp  
+[2019/04/14 18:51:13 323] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 19:19:36 910 
+============================================================
+[2019/04/14 19:19:36 910] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 19:19:36 910] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(280538a0) 
+[2019/04/14 19:19:36 910] lgi        292  LGI_MSG_INIT  
+[2019/04/14 19:19:36 910] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 19:19:36 910] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 19:19:36 910] lgi        349  auth_time_str=  2019/04/14 19:19:36  
+[2019/04/14 19:19:36 910] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 19:19:36 911] lgi        380  lgi ivwnet_querying  
+[2019/04/14 19:19:36 911] lgi        395  token:  nil  
+[2019/04/14 19:19:36 911] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 19:19:36 911] lgi        511  ns_enable=  1  
+[2019/04/14 19:19:36 911] lgi        523  prot_ver=1  
+[2019/04/14 19:19:36 911] lgi        534  prot_type=tcp  
+[2019/04/14 19:19:36 911] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 19:21:38 446 
+============================================================
+[2019/04/14 19:21:38 446] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 19:21:38 446] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(480538a0) 
+[2019/04/14 19:21:38 446] lgi        292  LGI_MSG_INIT  
+[2019/04/14 19:21:38 447] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 19:21:38 447] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 19:21:38 447] lgi        349  auth_time_str=  2019/04/14 19:21:38  
+[2019/04/14 19:21:38 447] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 19:21:38 447] lgi        380  lgi ivwnet_querying  
+[2019/04/14 19:21:38 447] lgi        395  token:  nil  
+[2019/04/14 19:21:38 447] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 19:21:38 447] lgi        511  ns_enable=  1  
+[2019/04/14 19:21:38 447] lgi        523  prot_ver=1  
+[2019/04/14 19:21:38 447] lgi        534  prot_type=tcp  
+[2019/04/14 19:21:38 447] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 19:38:55 817 
+============================================================
+[2019/04/14 19:38:55 817] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 19:38:55 818] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(d8053890) 
+[2019/04/14 19:38:55 818] lgi        292  LGI_MSG_INIT  
+[2019/04/14 19:38:55 818] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 19:38:55 818] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 19:38:55 818] lgi        349  auth_time_str=  2019/04/14 19:38:55  
+[2019/04/14 19:38:55 818] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 19:38:55 818] lgi        380  lgi ivwnet_querying  
+[2019/04/14 19:38:55 818] lgi        395  token:  nil  
+[2019/04/14 19:38:55 818] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 19:38:55 818] lgi        511  ns_enable=  1  
+[2019/04/14 19:38:55 818] lgi        523  prot_ver=1  
+[2019/04/14 19:38:55 818] lgi        534  prot_type=tcp  
+[2019/04/14 19:38:55 818] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 19:39:38 933 
+============================================================
+[2019/04/14 19:39:38 933] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 19:39:38 933] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(640538a0) 
+[2019/04/14 19:39:38 933] lgi        292  LGI_MSG_INIT  
+[2019/04/14 19:39:38 933] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 19:39:38 933] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 19:39:38 933] lgi        349  auth_time_str=  2019/04/14 19:39:38  
+[2019/04/14 19:39:38 933] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 19:39:38 934] lgi        380  lgi ivwnet_querying  
+[2019/04/14 19:39:38 934] lgi        395  token:  nil  
+[2019/04/14 19:39:38 934] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 19:39:38 934] lgi        511  ns_enable=  1  
+[2019/04/14 19:39:38 934] lgi        523  prot_ver=1  
+[2019/04/14 19:39:38 934] lgi        534  prot_type=tcp  
+[2019/04/14 19:39:38 934] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 19:40:18 840 
+============================================================
+[2019/04/14 19:40:18 840] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 19:40:18 841] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(50053890) 
+[2019/04/14 19:40:18 841] lgi        292  LGI_MSG_INIT  
+[2019/04/14 19:40:18 841] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 19:40:18 841] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 19:40:18 841] lgi        349  auth_time_str=  2019/04/14 19:40:18  
+[2019/04/14 19:40:18 841] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 19:40:18 841] lgi        380  lgi ivwnet_querying  
+[2019/04/14 19:40:18 841] lgi        395  token:  nil  
+[2019/04/14 19:40:18 841] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 19:40:18 841] lgi        511  ns_enable=  1  
+[2019/04/14 19:40:18 841] lgi        523  prot_ver=1  
+[2019/04/14 19:40:18 841] lgi        534  prot_type=tcp  
+[2019/04/14 19:40:18 841] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 20:01:46 042 
+============================================================
+[2019/04/14 20:01:46 042] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 20:01:46 042] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(40013aa0) 
+[2019/04/14 20:01:46 042] lgi        292  LGI_MSG_INIT  
+[2019/04/14 20:01:46 042] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 20:01:46 042] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 20:01:46 042] lgi        349  auth_time_str=  2019/04/14 20:01:46  
+[2019/04/14 20:01:46 042] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 20:01:46 043] lgi        380  lgi ivwnet_querying  
+[2019/04/14 20:01:46 043] lgi        395  token:  nil  
+[2019/04/14 20:01:46 043] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 20:01:46 043] lgi        511  ns_enable=  1  
+[2019/04/14 20:01:46 043] lgi        523  prot_ver=1  
+[2019/04/14 20:01:46 043] lgi        534  prot_type=tcp  
+[2019/04/14 20:01:46 043] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 20:06:02 163 
+============================================================
+[2019/04/14 20:06:02 163] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 20:06:02 163] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(e4053890) 
+[2019/04/14 20:06:02 163] lgi        292  LGI_MSG_INIT  
+[2019/04/14 20:06:02 163] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 20:06:02 163] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 20:06:02 163] lgi        349  auth_time_str=  2019/04/14 20:06:02  
+[2019/04/14 20:06:02 163] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 20:06:02 164] lgi        380  lgi ivwnet_querying  
+[2019/04/14 20:06:02 164] lgi        395  token:  nil  
+[2019/04/14 20:06:02 164] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 20:06:02 164] lgi        511  ns_enable=  1  
+[2019/04/14 20:06:02 164] lgi        523  prot_ver=1  
+[2019/04/14 20:06:02 164] lgi        534  prot_type=tcp  
+[2019/04/14 20:06:02 164] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 20:08:36 348 
+============================================================
+[2019/04/14 20:08:36 348] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 20:08:36 348] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(340538c0) 
+[2019/04/14 20:08:36 348] lgi        292  LGI_MSG_INIT  
+[2019/04/14 20:08:36 348] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 20:08:36 348] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 20:08:36 348] lgi        349  auth_time_str=  2019/04/14 20:08:36  
+[2019/04/14 20:08:36 348] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 20:08:36 349] lgi        380  lgi ivwnet_querying  
+[2019/04/14 20:08:36 349] lgi        395  token:  nil  
+[2019/04/14 20:08:36 349] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 20:08:36 349] lgi        511  ns_enable=  1  
+[2019/04/14 20:08:36 349] lgi        523  prot_ver=1  
+[2019/04/14 20:08:36 349] lgi        534  prot_type=tcp  
+[2019/04/14 20:08:36 349] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 20:09:36 938 
+============================================================
+[2019/04/14 20:09:36 938] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 20:09:36 938] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(280538b0) 
+[2019/04/14 20:09:36 938] lgi        292  LGI_MSG_INIT  
+[2019/04/14 20:09:36 938] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 20:09:36 939] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 20:09:36 939] lgi        349  auth_time_str=  2019/04/14 20:09:36  
+[2019/04/14 20:09:36 939] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 20:09:36 939] lgi        380  lgi ivwnet_querying  
+[2019/04/14 20:09:36 939] lgi        395  token:  nil  
+[2019/04/14 20:09:36 939] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 20:09:36 939] lgi        511  ns_enable=  1  
+[2019/04/14 20:09:36 939] lgi        523  prot_ver=1  
+[2019/04/14 20:09:36 939] lgi        534  prot_type=tcp  
+[2019/04/14 20:09:36 939] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 20:25:30 432 
+============================================================
+[2019/04/14 20:25:30 432] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 20:25:30 432] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(fc053880) 
+[2019/04/14 20:25:30 432] lgi        292  LGI_MSG_INIT  
+[2019/04/14 20:25:30 433] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 20:25:30 433] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 20:25:30 433] lgi        349  auth_time_str=  2019/04/14 20:25:30  
+[2019/04/14 20:25:30 433] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 20:25:30 433] lgi        380  lgi ivwnet_querying  
+[2019/04/14 20:25:30 433] lgi        395  token:  nil  
+[2019/04/14 20:25:30 433] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 20:25:30 433] lgi        511  ns_enable=  1  
+[2019/04/14 20:25:30 433] lgi        523  prot_ver=1  
+[2019/04/14 20:25:30 433] lgi        534  prot_type=tcp  
+[2019/04/14 20:25:30 433] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 20:49:10 773 
+============================================================
+[2019/04/14 20:49:10 773] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 20:49:10 773] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(68013aa0) 
+[2019/04/14 20:49:10 773] lgi        292  LGI_MSG_INIT  
+[2019/04/14 20:49:10 773] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 20:49:10 773] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 20:49:10 773] lgi        349  auth_time_str=  2019/04/14 20:49:10  
+[2019/04/14 20:49:10 773] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 20:49:10 774] lgi        380  lgi ivwnet_querying  
+[2019/04/14 20:49:10 774] lgi        395  token:  nil  
+[2019/04/14 20:49:10 774] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 20:49:10 774] lgi        511  ns_enable=  1  
+[2019/04/14 20:49:10 774] lgi        523  prot_ver=1  
+[2019/04/14 20:49:10 774] lgi        534  prot_type=tcp  
+[2019/04/14 20:49:10 774] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 21:20:19 855 
+============================================================
+[2019/04/14 21:20:19 855] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 21:20:19 856] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(940538a0) 
+[2019/04/14 21:20:19 856] lgi        292  LGI_MSG_INIT  
+[2019/04/14 21:20:19 856] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 21:20:19 856] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 21:20:19 856] lgi        349  auth_time_str=  2019/04/14 21:20:19  
+[2019/04/14 21:20:19 856] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 21:20:19 856] lgi        380  lgi ivwnet_querying  
+[2019/04/14 21:20:19 856] lgi        395  token:  nil  
+[2019/04/14 21:20:19 856] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 21:20:19 856] lgi        511  ns_enable=  1  
+[2019/04/14 21:20:19 856] lgi        523  prot_ver=1  
+[2019/04/14 21:20:19 856] lgi        534  prot_type=tcp  
+[2019/04/14 21:20:19 856] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 21:45:32 582 
+============================================================
+[2019/04/14 21:45:32 582] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 21:45:32 583] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(94013aa0) 
+[2019/04/14 21:45:32 583] lgi        292  LGI_MSG_INIT  
+[2019/04/14 21:45:32 583] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 21:45:32 583] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 21:45:32 583] lgi        349  auth_time_str=  2019/04/14 21:45:32  
+[2019/04/14 21:45:32 583] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 21:45:32 583] lgi        380  lgi ivwnet_querying  
+[2019/04/14 21:45:32 583] lgi        395  token:  nil  
+[2019/04/14 21:45:32 583] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 21:45:32 583] lgi        511  ns_enable=  1  
+[2019/04/14 21:45:32 583] lgi        523  prot_ver=1  
+[2019/04/14 21:45:32 583] lgi        534  prot_type=tcp  
+[2019/04/14 21:45:32 584] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 21:47:03 653 
+============================================================
+[2019/04/14 21:47:03 653] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 21:47:03 653] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(74013aa0) 
+[2019/04/14 21:47:03 653] lgi        292  LGI_MSG_INIT  
+[2019/04/14 21:47:03 653] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 21:47:03 653] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 21:47:03 653] lgi        349  auth_time_str=  2019/04/14 21:47:03  
+[2019/04/14 21:47:03 653] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 21:47:03 654] lgi        380  lgi ivwnet_querying  
+[2019/04/14 21:47:03 654] lgi        395  token:  nil  
+[2019/04/14 21:47:03 654] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 21:47:03 654] lgi        511  ns_enable=  1  
+[2019/04/14 21:47:03 654] lgi        523  prot_ver=1  
+[2019/04/14 21:47:03 654] lgi        534  prot_type=tcp  
+[2019/04/14 21:47:03 654] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 21:49:41 070 
+============================================================
+[2019/04/14 21:49:41 070] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 21:49:41 071] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(6c0538a0) 
+[2019/04/14 21:49:41 071] lgi        292  LGI_MSG_INIT  
+[2019/04/14 21:49:41 071] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 21:49:41 071] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 21:49:41 071] lgi        349  auth_time_str=  2019/04/14 21:49:41  
+[2019/04/14 21:49:41 071] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 21:49:41 071] lgi        380  lgi ivwnet_querying  
+[2019/04/14 21:49:41 071] lgi        395  token:  nil  
+[2019/04/14 21:49:41 071] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 21:49:41 071] lgi        511  ns_enable=  1  
+[2019/04/14 21:49:41 071] lgi        523  prot_ver=1  
+[2019/04/14 21:49:41 071] lgi        534  prot_type=tcp  
+[2019/04/14 21:49:41 071] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 21:51:18 469 
+============================================================
+[2019/04/14 21:51:18 469] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 21:51:18 469] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(18013aa0) 
+[2019/04/14 21:51:18 469] lgi        292  LGI_MSG_INIT  
+[2019/04/14 21:51:18 469] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 21:51:18 469] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 21:51:18 469] lgi        349  auth_time_str=  2019/04/14 21:51:18  
+[2019/04/14 21:51:18 469] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 21:51:18 470] lgi        380  lgi ivwnet_querying  
+[2019/04/14 21:51:18 470] lgi        395  token:  nil  
+[2019/04/14 21:51:18 470] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 21:51:18 470] lgi        511  ns_enable=  1  
+[2019/04/14 21:51:18 470] lgi        523  prot_ver=1  
+[2019/04/14 21:51:18 470] lgi        534  prot_type=tcp  
+[2019/04/14 21:51:18 470] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 21:54:28 102 
+============================================================
+[2019/04/14 21:54:28 102] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 21:54:28 102] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(c40538a0) 
+[2019/04/14 21:54:28 103] lgi        292  LGI_MSG_INIT  
+[2019/04/14 21:54:28 103] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 21:54:28 103] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 21:54:28 103] lgi        349  auth_time_str=  2019/04/14 21:54:28  
+[2019/04/14 21:54:28 103] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 21:54:28 103] lgi        380  lgi ivwnet_querying  
+[2019/04/14 21:54:28 103] lgi        395  token:  nil  
+[2019/04/14 21:54:28 103] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 21:54:28 103] lgi        511  ns_enable=  1  
+[2019/04/14 21:54:28 103] lgi        523  prot_ver=1  
+[2019/04/14 21:54:28 103] lgi        534  prot_type=tcp  
+[2019/04/14 21:54:28 103] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/14 21:54:35 031 
+============================================================
+[2019/04/14 21:54:35 031] lgi        676  SYS_MSG_LOAD  
+[2019/04/14 21:54:35 032] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(200538b0) 
+[2019/04/14 21:54:35 032] lgi        292  LGI_MSG_INIT  
+[2019/04/14 21:54:35 032] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/14 21:54:35 032] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/14 21:54:35 032] lgi        349  auth_time_str=  2019/04/14 21:54:35  
+[2019/04/14 21:54:35 032] lgi        355  auth_appid=  5c7e38af  
+[2019/04/14 21:54:35 032] lgi        380  lgi ivwnet_querying  
+[2019/04/14 21:54:35 033] lgi        395  token:  nil  
+[2019/04/14 21:54:35 033] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/14 21:54:35 033] lgi        511  ns_enable=  1  
+[2019/04/14 21:54:35 033] lgi        523  prot_ver=1  
+[2019/04/14 21:54:35 033] lgi        534  prot_type=tcp  
+[2019/04/14 21:54:35 033] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 00:06:40 386 
+============================================================
+[2019/04/15 00:06:40 386] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 00:06:40 387] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(ac013ac0) 
+[2019/04/15 00:06:40 387] lgi        292  LGI_MSG_INIT  
+[2019/04/15 00:06:40 387] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 00:06:40 387] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 00:06:40 387] lgi        349  auth_time_str=  2019/04/15 00:06:40  
+[2019/04/15 00:06:40 387] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 00:06:40 387] lgi        380  lgi ivwnet_querying  
+[2019/04/15 00:06:40 387] lgi        395  token:  nil  
+[2019/04/15 00:06:40 387] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 00:06:40 387] lgi        511  ns_enable=  1  
+[2019/04/15 00:06:40 387] lgi        523  prot_ver=1  
+[2019/04/15 00:06:40 387] lgi        534  prot_type=tcp  
+[2019/04/15 00:06:40 388] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 00:07:40 282 
+============================================================
+[2019/04/15 00:07:40 282] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 00:07:40 283] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(68013aa0) 
+[2019/04/15 00:07:40 283] lgi        292  LGI_MSG_INIT  
+[2019/04/15 00:07:40 283] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 00:07:40 283] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 00:07:40 283] lgi        349  auth_time_str=  2019/04/15 00:07:40  
+[2019/04/15 00:07:40 283] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 00:07:40 283] lgi        380  lgi ivwnet_querying  
+[2019/04/15 00:07:40 283] lgi        395  token:  nil  
+[2019/04/15 00:07:40 283] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 00:07:40 283] lgi        511  ns_enable=  1  
+[2019/04/15 00:07:40 283] lgi        523  prot_ver=1  
+[2019/04/15 00:07:40 283] lgi        534  prot_type=tcp  
+[2019/04/15 00:07:40 285] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 00:13:45 375 
+============================================================
+[2019/04/15 00:13:45 375] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 00:13:45 376] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(98053880) 
+[2019/04/15 00:13:45 376] lgi        292  LGI_MSG_INIT  
+[2019/04/15 00:13:45 376] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 00:13:45 376] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 00:13:45 376] lgi        349  auth_time_str=  2019/04/15 00:13:45  
+[2019/04/15 00:13:45 376] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 00:13:45 377] lgi        380  lgi ivwnet_querying  
+[2019/04/15 00:13:45 377] lgi        395  token:  nil  
+[2019/04/15 00:13:45 377] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 00:13:45 377] lgi        511  ns_enable=  1  
+[2019/04/15 00:13:45 377] lgi        523  prot_ver=1  
+[2019/04/15 00:13:45 377] lgi        534  prot_type=tcp  
+[2019/04/15 00:13:45 378] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 00:15:39 933 
+============================================================
+[2019/04/15 00:15:39 933] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 00:15:39 934] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(40053890) 
+[2019/04/15 00:15:39 934] lgi        292  LGI_MSG_INIT  
+[2019/04/15 00:15:39 934] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 00:15:39 934] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 00:15:39 934] lgi        349  auth_time_str=  2019/04/15 00:15:39  
+[2019/04/15 00:15:39 934] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 00:15:39 934] lgi        380  lgi ivwnet_querying  
+[2019/04/15 00:15:39 934] lgi        395  token:  nil  
+[2019/04/15 00:15:39 934] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 00:15:39 934] lgi        511  ns_enable=  1  
+[2019/04/15 00:15:39 934] lgi        523  prot_ver=1  
+[2019/04/15 00:15:39 934] lgi        534  prot_type=tcp  
+[2019/04/15 00:15:39 935] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 00:15:44 879 
+============================================================
+[2019/04/15 00:15:44 879] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 00:15:44 880] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(8c013aa0) 
+[2019/04/15 00:15:44 880] lgi        292  LGI_MSG_INIT  
+[2019/04/15 00:15:44 880] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 00:15:44 880] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 00:15:44 880] lgi        349  auth_time_str=  2019/04/15 00:15:44  
+[2019/04/15 00:15:44 880] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 00:15:44 880] lgi        380  lgi ivwnet_querying  
+[2019/04/15 00:15:44 880] lgi        395  token:  nil  
+[2019/04/15 00:15:44 880] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 00:15:44 880] lgi        511  ns_enable=  1  
+[2019/04/15 00:15:44 880] lgi        523  prot_ver=1  
+[2019/04/15 00:15:44 880] lgi        534  prot_type=tcp  
+[2019/04/15 00:15:44 880] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 00:17:06 765 
+============================================================
+[2019/04/15 00:17:06 765] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 00:17:06 765] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(5c0538a0) 
+[2019/04/15 00:17:06 766] lgi        292  LGI_MSG_INIT  
+[2019/04/15 00:17:06 766] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 00:17:06 766] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 00:17:06 766] lgi        349  auth_time_str=  2019/04/15 00:17:06  
+[2019/04/15 00:17:06 766] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 00:17:06 766] lgi        380  lgi ivwnet_querying  
+[2019/04/15 00:17:06 766] lgi        395  token:  nil  
+[2019/04/15 00:17:06 766] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 00:17:06 766] lgi        511  ns_enable=  1  
+[2019/04/15 00:17:06 766] lgi        523  prot_ver=1  
+[2019/04/15 00:17:06 766] lgi        534  prot_type=tcp  
+[2019/04/15 00:17:06 766] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 16:40:50 562 
+============================================================
+[2019/04/15 16:40:50 562] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 16:40:50 562] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(3c0538a0) 
+[2019/04/15 16:40:50 562] lgi        292  LGI_MSG_INIT  
+[2019/04/15 16:40:50 562] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 16:40:50 562] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 16:40:50 562] lgi        349  auth_time_str=  2019/04/15 16:40:50  
+[2019/04/15 16:40:50 562] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 16:40:50 563] lgi        380  lgi ivwnet_querying  
+[2019/04/15 16:40:50 563] lgi        395  token:  nil  
+[2019/04/15 16:40:50 563] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 16:40:50 563] lgi        511  ns_enable=  1  
+[2019/04/15 16:40:50 563] lgi        523  prot_ver=1  
+[2019/04/15 16:40:50 563] lgi        534  prot_type=tcp  
+[2019/04/15 16:40:50 564] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 16:42:18 699 
+============================================================
+[2019/04/15 16:42:18 699] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 16:42:18 699] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(7c013aa0) 
+[2019/04/15 16:42:18 699] lgi        292  LGI_MSG_INIT  
+[2019/04/15 16:42:18 699] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 16:42:18 699] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 16:42:18 699] lgi        349  auth_time_str=  2019/04/15 16:42:18  
+[2019/04/15 16:42:18 699] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 16:42:18 700] lgi        380  lgi ivwnet_querying  
+[2019/04/15 16:42:18 700] lgi        395  token:  nil  
+[2019/04/15 16:42:18 700] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 16:42:18 700] lgi        511  ns_enable=  1  
+[2019/04/15 16:42:18 700] lgi        523  prot_ver=1  
+[2019/04/15 16:42:18 700] lgi        534  prot_type=tcp  
+[2019/04/15 16:42:18 701] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 16:44:50 154 
+============================================================
+[2019/04/15 16:44:50 154] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 16:44:50 154] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(84013ac0) 
+[2019/04/15 16:44:50 154] lgi        292  LGI_MSG_INIT  
+[2019/04/15 16:44:50 154] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 16:44:50 154] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 16:44:50 154] lgi        349  auth_time_str=  2019/04/15 16:44:50  
+[2019/04/15 16:44:50 154] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 16:44:50 155] lgi        380  lgi ivwnet_querying  
+[2019/04/15 16:44:50 155] lgi        395  token:  nil  
+[2019/04/15 16:44:50 155] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 16:44:50 155] lgi        511  ns_enable=  1  
+[2019/04/15 16:44:50 155] lgi        523  prot_ver=1  
+[2019/04/15 16:44:50 155] lgi        534  prot_type=tcp  
+[2019/04/15 16:44:50 155] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 16:45:58 975 
+============================================================
+[2019/04/15 16:45:58 975] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 16:45:58 975] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(80538c0) 
+[2019/04/15 16:45:58 975] lgi        292  LGI_MSG_INIT  
+[2019/04/15 16:45:58 975] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 16:45:58 975] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 16:45:58 975] lgi        349  auth_time_str=  2019/04/15 16:45:58  
+[2019/04/15 16:45:58 975] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 16:45:58 976] lgi        380  lgi ivwnet_querying  
+[2019/04/15 16:45:58 976] lgi        395  token:  nil  
+[2019/04/15 16:45:58 976] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 16:45:58 976] lgi        511  ns_enable=  1  
+[2019/04/15 16:45:58 976] lgi        523  prot_ver=1  
+[2019/04/15 16:45:58 976] lgi        534  prot_type=tcp  
+[2019/04/15 16:45:58 976] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 16:47:31 243 
+============================================================
+[2019/04/15 16:47:31 243] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 16:47:31 243] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(28053890) 
+[2019/04/15 16:47:31 243] lgi        292  LGI_MSG_INIT  
+[2019/04/15 16:47:31 243] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 16:47:31 243] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 16:47:31 243] lgi        349  auth_time_str=  2019/04/15 16:47:31  
+[2019/04/15 16:47:31 243] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 16:47:31 244] lgi        380  lgi ivwnet_querying  
+[2019/04/15 16:47:31 244] lgi        395  token:  nil  
+[2019/04/15 16:47:31 244] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 16:47:31 244] lgi        511  ns_enable=  1  
+[2019/04/15 16:47:31 244] lgi        523  prot_ver=1  
+[2019/04/15 16:47:31 244] lgi        534  prot_type=tcp  
+[2019/04/15 16:47:31 244] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 16:49:42 218 
+============================================================
+[2019/04/15 16:49:42 219] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 16:49:42 219] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(c80538a0) 
+[2019/04/15 16:49:42 219] lgi        292  LGI_MSG_INIT  
+[2019/04/15 16:49:42 219] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 16:49:42 219] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 16:49:42 219] lgi        349  auth_time_str=  2019/04/15 16:49:42  
+[2019/04/15 16:49:42 219] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 16:49:42 219] lgi        380  lgi ivwnet_querying  
+[2019/04/15 16:49:42 219] lgi        395  token:  nil  
+[2019/04/15 16:49:42 220] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 16:49:42 220] lgi        511  ns_enable=  1  
+[2019/04/15 16:49:42 220] lgi        523  prot_ver=1  
+[2019/04/15 16:49:42 220] lgi        534  prot_type=tcp  
+[2019/04/15 16:49:42 220] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 16:54:40 333 
+============================================================
+[2019/04/15 16:54:40 333] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 16:54:40 333] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(d0013aa0) 
+[2019/04/15 16:54:40 333] lgi        292  LGI_MSG_INIT  
+[2019/04/15 16:54:40 334] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 16:54:40 334] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 16:54:40 334] lgi        349  auth_time_str=  2019/04/15 16:54:40  
+[2019/04/15 16:54:40 334] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 16:54:40 334] lgi        380  lgi ivwnet_querying  
+[2019/04/15 16:54:40 334] lgi        395  token:  nil  
+[2019/04/15 16:54:40 334] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 16:54:40 334] lgi        511  ns_enable=  1  
+[2019/04/15 16:54:40 334] lgi        523  prot_ver=1  
+[2019/04/15 16:54:40 334] lgi        534  prot_type=tcp  
+[2019/04/15 16:54:40 334] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 16:58:50 281 
+============================================================
+[2019/04/15 16:58:50 281] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 16:58:50 281] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(ac0538a0) 
+[2019/04/15 16:58:50 281] lgi        292  LGI_MSG_INIT  
+[2019/04/15 16:58:50 282] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 16:58:50 282] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 16:58:50 282] lgi        349  auth_time_str=  2019/04/15 16:58:50  
+[2019/04/15 16:58:50 282] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 16:58:50 282] lgi        380  lgi ivwnet_querying  
+[2019/04/15 16:58:50 282] lgi        395  token:  nil  
+[2019/04/15 16:58:50 282] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 16:58:50 282] lgi        511  ns_enable=  1  
+[2019/04/15 16:58:50 282] lgi        523  prot_ver=1  
+[2019/04/15 16:58:50 282] lgi        534  prot_type=tcp  
+[2019/04/15 16:58:50 282] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:05:53 466 
+============================================================
+[2019/04/15 17:05:53 466] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:05:53 467] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(13aa0) 
+[2019/04/15 17:05:53 467] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:05:53 467] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:05:53 467] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:05:53 467] lgi        349  auth_time_str=  2019/04/15 17:05:53  
+[2019/04/15 17:05:53 467] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:05:53 467] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:05:53 467] lgi        395  token:  nil  
+[2019/04/15 17:05:53 467] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:05:53 467] lgi        511  ns_enable=  1  
+[2019/04/15 17:05:53 467] lgi        523  prot_ver=1  
+[2019/04/15 17:05:53 467] lgi        534  prot_type=tcp  
+[2019/04/15 17:05:53 467] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:06:40 351 
+============================================================
+[2019/04/15 17:06:40 351] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:06:40 351] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(90053880) 
+[2019/04/15 17:06:40 351] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:06:40 351] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:06:40 351] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:06:40 351] lgi        349  auth_time_str=  2019/04/15 17:06:40  
+[2019/04/15 17:06:40 351] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:06:40 352] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:06:40 352] lgi        395  token:  nil  
+[2019/04/15 17:06:40 352] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:06:40 352] lgi        511  ns_enable=  1  
+[2019/04/15 17:06:40 352] lgi        523  prot_ver=1  
+[2019/04/15 17:06:40 352] lgi        534  prot_type=tcp  
+[2019/04/15 17:06:40 352] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:08:18 966 
+============================================================
+[2019/04/15 17:08:18 966] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:08:18 966] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(e00538b0) 
+[2019/04/15 17:08:18 966] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:08:18 967] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:08:18 967] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:08:18 967] lgi        349  auth_time_str=  2019/04/15 17:08:18  
+[2019/04/15 17:08:18 967] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:08:18 967] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:08:18 967] lgi        395  token:  nil  
+[2019/04/15 17:08:18 967] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:08:18 967] lgi        511  ns_enable=  1  
+[2019/04/15 17:08:18 967] lgi        523  prot_ver=1  
+[2019/04/15 17:08:18 967] lgi        534  prot_type=tcp  
+[2019/04/15 17:08:18 967] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:17:33 434 
+============================================================
+[2019/04/15 17:17:33 434] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:17:33 435] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(d4013aa0) 
+[2019/04/15 17:17:33 435] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:17:33 435] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:17:33 435] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:17:33 435] lgi        349  auth_time_str=  2019/04/15 17:17:33  
+[2019/04/15 17:17:33 435] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:17:33 436] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:17:33 436] lgi        395  token:  nil  
+[2019/04/15 17:17:33 436] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:17:33 436] lgi        511  ns_enable=  1  
+[2019/04/15 17:17:33 436] lgi        523  prot_ver=1  
+[2019/04/15 17:17:33 436] lgi        534  prot_type=tcp  
+[2019/04/15 17:17:33 436] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:39:32 567 
+============================================================
+[2019/04/15 17:39:32 567] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:39:32 568] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(4c013aa0) 
+[2019/04/15 17:39:32 568] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:39:32 568] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:39:32 568] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:39:32 568] lgi        349  auth_time_str=  2019/04/15 17:39:32  
+[2019/04/15 17:39:32 568] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:39:32 568] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:39:32 568] lgi        395  token:  nil  
+[2019/04/15 17:39:32 568] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:39:32 568] lgi        511  ns_enable=  1  
+[2019/04/15 17:39:32 568] lgi        523  prot_ver=1  
+[2019/04/15 17:39:32 568] lgi        534  prot_type=tcp  
+[2019/04/15 17:39:32 569] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:40:02 461 
+============================================================
+[2019/04/15 17:40:02 461] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:40:02 461] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(bc0538c0) 
+[2019/04/15 17:40:02 461] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:40:02 461] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:40:02 461] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:40:02 461] lgi        349  auth_time_str=  2019/04/15 17:40:02  
+[2019/04/15 17:40:02 461] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:40:02 462] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:40:02 462] lgi        395  token:  nil  
+[2019/04/15 17:40:02 462] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:40:02 462] lgi        511  ns_enable=  1  
+[2019/04/15 17:40:02 462] lgi        523  prot_ver=1  
+[2019/04/15 17:40:02 462] lgi        534  prot_type=tcp  
+[2019/04/15 17:40:02 462] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:41:36 067 
+============================================================
+[2019/04/15 17:41:36 067] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:41:36 068] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(64013aa0) 
+[2019/04/15 17:41:36 068] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:41:36 068] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:41:36 068] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:41:36 068] lgi        349  auth_time_str=  2019/04/15 17:41:36  
+[2019/04/15 17:41:36 068] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:41:36 068] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:41:36 068] lgi        395  token:  nil  
+[2019/04/15 17:41:36 068] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:41:36 068] lgi        511  ns_enable=  1  
+[2019/04/15 17:41:36 068] lgi        523  prot_ver=1  
+[2019/04/15 17:41:36 068] lgi        534  prot_type=tcp  
+[2019/04/15 17:41:36 068] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:41:56 035 
+============================================================
+[2019/04/15 17:41:56 035] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:41:56 035] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(53880) 
+[2019/04/15 17:41:56 035] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:41:56 035] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:41:56 035] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:41:56 035] lgi        349  auth_time_str=  2019/04/15 17:41:56  
+[2019/04/15 17:41:56 035] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:41:56 036] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:41:56 036] lgi        395  token:  nil  
+[2019/04/15 17:41:56 036] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:41:56 036] lgi        511  ns_enable=  1  
+[2019/04/15 17:41:56 036] lgi        523  prot_ver=1  
+[2019/04/15 17:41:56 036] lgi        534  prot_type=tcp  
+[2019/04/15 17:41:56 036] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:42:25 206 
+============================================================
+[2019/04/15 17:42:25 206] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:42:25 207] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(e0053890) 
+[2019/04/15 17:42:25 207] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:42:25 207] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:42:25 207] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:42:25 207] lgi        349  auth_time_str=  2019/04/15 17:42:25  
+[2019/04/15 17:42:25 207] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:42:25 207] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:42:25 207] lgi        395  token:  nil  
+[2019/04/15 17:42:25 207] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:42:25 207] lgi        511  ns_enable=  1  
+[2019/04/15 17:42:25 207] lgi        523  prot_ver=1  
+[2019/04/15 17:42:25 207] lgi        534  prot_type=tcp  
+[2019/04/15 17:42:25 207] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:43:09 050 
+============================================================
+[2019/04/15 17:43:09 050] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:43:09 050] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(a8013aa0) 
+[2019/04/15 17:43:09 050] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:43:09 050] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:43:09 050] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:43:09 050] lgi        349  auth_time_str=  2019/04/15 17:43:09  
+[2019/04/15 17:43:09 050] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:43:09 051] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:43:09 051] lgi        395  token:  nil  
+[2019/04/15 17:43:09 051] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:43:09 051] lgi        511  ns_enable=  1  
+[2019/04/15 17:43:09 051] lgi        523  prot_ver=1  
+[2019/04/15 17:43:09 051] lgi        534  prot_type=tcp  
+[2019/04/15 17:43:09 051] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 17:44:01 719 
+============================================================
+[2019/04/15 17:44:01 719] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 17:44:01 720] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(f4053880) 
+[2019/04/15 17:44:01 720] lgi        292  LGI_MSG_INIT  
+[2019/04/15 17:44:01 720] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 17:44:01 720] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 17:44:01 720] lgi        349  auth_time_str=  2019/04/15 17:44:01  
+[2019/04/15 17:44:01 720] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 17:44:01 720] lgi        380  lgi ivwnet_querying  
+[2019/04/15 17:44:01 720] lgi        395  token:  nil  
+[2019/04/15 17:44:01 720] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 17:44:01 720] lgi        511  ns_enable=  1  
+[2019/04/15 17:44:01 720] lgi        523  prot_ver=1  
+[2019/04/15 17:44:01 720] lgi        534  prot_type=tcp  
+[2019/04/15 17:44:01 720] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 21:02:56 158 
+============================================================
+[2019/04/15 21:02:56 158] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 21:02:56 159] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(c4053880) 
+[2019/04/15 21:02:56 159] lgi        292  LGI_MSG_INIT  
+[2019/04/15 21:02:56 159] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 21:02:56 159] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 21:02:56 159] lgi        349  auth_time_str=  2019/04/15 21:02:56  
+[2019/04/15 21:02:56 159] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 21:02:56 159] lgi        380  lgi ivwnet_querying  
+[2019/04/15 21:02:56 159] lgi        395  token:  nil  
+[2019/04/15 21:02:56 159] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 21:02:56 159] lgi        511  ns_enable=  1  
+[2019/04/15 21:02:56 159] lgi        523  prot_ver=1  
+[2019/04/15 21:02:56 159] lgi        534  prot_type=tcp  
+[2019/04/15 21:02:56 159] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 21:17:03 743 
+============================================================
+[2019/04/15 21:17:03 743] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 21:17:03 744] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(840538a0) 
+[2019/04/15 21:17:03 744] lgi        292  LGI_MSG_INIT  
+[2019/04/15 21:17:03 744] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 21:17:03 744] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 21:17:03 744] lgi        349  auth_time_str=  2019/04/15 21:17:03  
+[2019/04/15 21:17:03 744] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 21:17:03 744] lgi        380  lgi ivwnet_querying  
+[2019/04/15 21:17:03 744] lgi        395  token:  nil  
+[2019/04/15 21:17:03 744] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 21:17:03 744] lgi        511  ns_enable=  1  
+[2019/04/15 21:17:03 744] lgi        523  prot_ver=1  
+[2019/04/15 21:17:03 744] lgi        534  prot_type=tcp  
+[2019/04/15 21:17:03 745] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 21:17:44 794 
+============================================================
+[2019/04/15 21:17:44 794] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 21:17:44 795] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(a0013aa0) 
+[2019/04/15 21:17:44 795] lgi        292  LGI_MSG_INIT  
+[2019/04/15 21:17:44 795] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 21:17:44 795] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 21:17:44 795] lgi        349  auth_time_str=  2019/04/15 21:17:44  
+[2019/04/15 21:17:44 795] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 21:17:44 796] lgi        380  lgi ivwnet_querying  
+[2019/04/15 21:17:44 796] lgi        395  token:  nil  
+[2019/04/15 21:17:44 796] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 21:17:44 796] lgi        511  ns_enable=  1  
+[2019/04/15 21:17:44 796] lgi        523  prot_ver=1  
+[2019/04/15 21:17:44 796] lgi        534  prot_type=tcp  
+[2019/04/15 21:17:44 796] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 22:05:04 177 
+============================================================
+[2019/04/15 22:05:04 177] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 22:05:04 177] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(2c053890) 
+[2019/04/15 22:05:04 177] lgi        292  LGI_MSG_INIT  
+[2019/04/15 22:05:04 177] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 22:05:04 177] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 22:05:04 177] lgi        349  auth_time_str=  2019/04/15 22:05:04  
+[2019/04/15 22:05:04 177] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 22:05:04 178] lgi        380  lgi ivwnet_querying  
+[2019/04/15 22:05:04 178] lgi        395  token:  nil  
+[2019/04/15 22:05:04 178] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 22:05:04 178] lgi        511  ns_enable=  1  
+[2019/04/15 22:05:04 178] lgi        523  prot_ver=1  
+[2019/04/15 22:05:04 178] lgi        534  prot_type=tcp  
+[2019/04/15 22:05:04 178] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 22:35:08 527 
+============================================================
+[2019/04/15 22:35:08 527] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 22:35:08 528] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(40053890) 
+[2019/04/15 22:35:08 528] lgi        292  LGI_MSG_INIT  
+[2019/04/15 22:35:08 528] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 22:35:08 528] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 22:35:08 528] lgi        349  auth_time_str=  2019/04/15 22:35:08  
+[2019/04/15 22:35:08 528] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 22:35:08 528] lgi        380  lgi ivwnet_querying  
+[2019/04/15 22:35:08 528] lgi        395  token:  nil  
+[2019/04/15 22:35:08 528] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 22:35:08 528] lgi        511  ns_enable=  1  
+[2019/04/15 22:35:08 528] lgi        523  prot_ver=1  
+[2019/04/15 22:35:08 528] lgi        534  prot_type=tcp  
+[2019/04/15 22:35:08 529] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 22:41:12 757 
+============================================================
+[2019/04/15 22:41:12 757] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 22:41:12 758] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(48013ac0) 
+[2019/04/15 22:41:12 758] lgi        292  LGI_MSG_INIT  
+[2019/04/15 22:41:12 758] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 22:41:12 758] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 22:41:12 758] lgi        349  auth_time_str=  2019/04/15 22:41:12  
+[2019/04/15 22:41:12 758] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 22:41:12 759] lgi        380  lgi ivwnet_querying  
+[2019/04/15 22:41:12 759] lgi        395  token:  nil  
+[2019/04/15 22:41:12 759] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 22:41:12 759] lgi        511  ns_enable=  1  
+[2019/04/15 22:41:12 759] lgi        523  prot_ver=1  
+[2019/04/15 22:41:12 759] lgi        534  prot_type=tcp  
+[2019/04/15 22:41:12 759] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 22:42:28 312 
+============================================================
+[2019/04/15 22:42:28 312] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 22:42:28 312] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(840538a0) 
+[2019/04/15 22:42:28 312] lgi        292  LGI_MSG_INIT  
+[2019/04/15 22:42:28 312] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 22:42:28 312] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 22:42:28 313] lgi        349  auth_time_str=  2019/04/15 22:42:28  
+[2019/04/15 22:42:28 313] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 22:42:28 313] lgi        380  lgi ivwnet_querying  
+[2019/04/15 22:42:28 313] lgi        395  token:  nil  
+[2019/04/15 22:42:28 313] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 22:42:28 313] lgi        511  ns_enable=  1  
+[2019/04/15 22:42:28 313] lgi        523  prot_ver=1  
+[2019/04/15 22:42:28 313] lgi        534  prot_type=tcp  
+[2019/04/15 22:42:28 313] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 22:59:04 925 
+============================================================
+[2019/04/15 22:59:04 926] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 22:59:04 926] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(cc013aa0) 
+[2019/04/15 22:59:04 926] lgi        292  LGI_MSG_INIT  
+[2019/04/15 22:59:04 926] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 22:59:04 926] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 22:59:04 926] lgi        349  auth_time_str=  2019/04/15 22:59:04  
+[2019/04/15 22:59:04 926] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 22:59:04 927] lgi        380  lgi ivwnet_querying  
+[2019/04/15 22:59:04 927] lgi        395  token:  nil  
+[2019/04/15 22:59:04 927] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 22:59:04 927] lgi        511  ns_enable=  1  
+[2019/04/15 22:59:04 927] lgi        523  prot_ver=1  
+[2019/04/15 22:59:04 927] lgi        534  prot_type=tcp  
+[2019/04/15 22:59:04 927] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:00:47 786 
+============================================================
+[2019/04/15 23:00:47 786] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:00:47 787] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(50013aa0) 
+[2019/04/15 23:00:47 787] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:00:47 787] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:00:47 787] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:00:47 787] lgi        349  auth_time_str=  2019/04/15 23:00:47  
+[2019/04/15 23:00:47 787] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:00:47 788] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:00:47 788] lgi        395  token:  nil  
+[2019/04/15 23:00:47 788] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:00:47 789] lgi        511  ns_enable=  1  
+[2019/04/15 23:00:47 789] lgi        523  prot_ver=1  
+[2019/04/15 23:00:47 789] lgi        534  prot_type=tcp  
+[2019/04/15 23:00:47 789] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:02:46 078 
+============================================================
+[2019/04/15 23:02:46 078] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:02:46 078] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(d4013ac0) 
+[2019/04/15 23:02:46 078] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:02:46 078] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:02:46 078] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:02:46 078] lgi        349  auth_time_str=  2019/04/15 23:02:46  
+[2019/04/15 23:02:46 078] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:02:46 080] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:02:46 080] lgi        395  token:  nil  
+[2019/04/15 23:02:46 080] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:02:46 080] lgi        511  ns_enable=  1  
+[2019/04/15 23:02:46 080] lgi        523  prot_ver=1  
+[2019/04/15 23:02:46 080] lgi        534  prot_type=tcp  
+[2019/04/15 23:02:46 080] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:04:08 494 
+============================================================
+[2019/04/15 23:04:08 494] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:04:08 494] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(e40538a0) 
+[2019/04/15 23:04:08 494] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:04:08 494] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:04:08 494] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:04:08 494] lgi        349  auth_time_str=  2019/04/15 23:04:08  
+[2019/04/15 23:04:08 494] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:04:08 495] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:04:08 495] lgi        395  token:  nil  
+[2019/04/15 23:04:08 495] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:04:08 495] lgi        511  ns_enable=  1  
+[2019/04/15 23:04:08 495] lgi        523  prot_ver=1  
+[2019/04/15 23:04:08 495] lgi        534  prot_type=tcp  
+[2019/04/15 23:04:08 495] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:05:22 829 
+============================================================
+[2019/04/15 23:05:22 829] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:05:22 830] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(14013aa0) 
+[2019/04/15 23:05:22 830] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:05:22 830] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:05:22 830] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:05:22 830] lgi        349  auth_time_str=  2019/04/15 23:05:22  
+[2019/04/15 23:05:22 830] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:05:22 831] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:05:22 832] lgi        395  token:  nil  
+[2019/04/15 23:05:22 832] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:05:22 832] lgi        511  ns_enable=  1  
+[2019/04/15 23:05:22 832] lgi        523  prot_ver=1  
+[2019/04/15 23:05:22 832] lgi        534  prot_type=tcp  
+[2019/04/15 23:05:22 832] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:10:52 693 
+============================================================
+[2019/04/15 23:10:52 693] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:10:52 693] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(d0053880) 
+[2019/04/15 23:10:52 694] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:10:52 694] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:10:52 694] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:10:52 694] lgi        349  auth_time_str=  2019/04/15 23:10:52  
+[2019/04/15 23:10:52 694] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:10:52 694] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:10:52 694] lgi        395  token:  nil  
+[2019/04/15 23:10:52 694] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:10:52 694] lgi        511  ns_enable=  1  
+[2019/04/15 23:10:52 694] lgi        523  prot_ver=1  
+[2019/04/15 23:10:52 694] lgi        534  prot_type=tcp  
+[2019/04/15 23:10:52 694] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:13:11 540 
+============================================================
+[2019/04/15 23:13:11 540] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:13:11 540] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(8c0538a0) 
+[2019/04/15 23:13:11 541] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:13:11 541] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:13:11 541] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:13:11 541] lgi        349  auth_time_str=  2019/04/15 23:13:11  
+[2019/04/15 23:13:11 541] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:13:11 542] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:13:11 542] lgi        395  token:  nil  
+[2019/04/15 23:13:11 542] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:13:11 542] lgi        511  ns_enable=  1  
+[2019/04/15 23:13:11 542] lgi        523  prot_ver=1  
+[2019/04/15 23:13:11 542] lgi        534  prot_type=tcp  
+[2019/04/15 23:13:11 544] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:19:16 655 
+============================================================
+[2019/04/15 23:19:16 655] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:19:16 655] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(84013aa0) 
+[2019/04/15 23:19:16 655] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:19:16 655] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:19:16 655] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:19:16 655] lgi        349  auth_time_str=  2019/04/15 23:19:16  
+[2019/04/15 23:19:16 655] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:19:16 656] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:19:16 656] lgi        395  token:  nil  
+[2019/04/15 23:19:16 656] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:19:16 656] lgi        511  ns_enable=  1  
+[2019/04/15 23:19:16 656] lgi        523  prot_ver=1  
+[2019/04/15 23:19:16 656] lgi        534  prot_type=tcp  
+[2019/04/15 23:19:16 656] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:30:25 859 
+============================================================
+[2019/04/15 23:30:25 859] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:30:25 860] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(88053890) 
+[2019/04/15 23:30:25 860] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:30:25 860] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:30:25 860] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:30:25 860] lgi        349  auth_time_str=  2019/04/15 23:30:25  
+[2019/04/15 23:30:25 860] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:30:25 860] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:30:25 860] lgi        395  token:  nil  
+[2019/04/15 23:30:25 860] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:30:25 860] lgi        511  ns_enable=  1  
+[2019/04/15 23:30:25 860] lgi        523  prot_ver=1  
+[2019/04/15 23:30:25 860] lgi        534  prot_type=tcp  
+[2019/04/15 23:30:25 861] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:32:47 294 
+============================================================
+[2019/04/15 23:32:47 294] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:32:47 295] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(9c0538a0) 
+[2019/04/15 23:32:47 295] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:32:47 295] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:32:47 295] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:32:47 295] lgi        349  auth_time_str=  2019/04/15 23:32:47  
+[2019/04/15 23:32:47 295] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:32:47 295] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:32:47 295] lgi        395  token:  nil  
+[2019/04/15 23:32:47 295] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:32:47 295] lgi        511  ns_enable=  1  
+[2019/04/15 23:32:47 296] lgi        523  prot_ver=1  
+[2019/04/15 23:32:47 296] lgi        534  prot_type=tcp  
+[2019/04/15 23:32:47 296] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:37:14 872 
+============================================================
+[2019/04/15 23:37:14 872] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:37:14 873] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(e80538c0) 
+[2019/04/15 23:37:14 873] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:37:14 873] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:37:14 873] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:37:14 873] lgi        349  auth_time_str=  2019/04/15 23:37:14  
+[2019/04/15 23:37:14 873] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:37:14 875] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:37:14 875] lgi        395  token:  nil  
+[2019/04/15 23:37:14 875] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:37:14 875] lgi        511  ns_enable=  1  
+[2019/04/15 23:37:14 875] lgi        523  prot_ver=1  
+[2019/04/15 23:37:14 875] lgi        534  prot_type=tcp  
+[2019/04/15 23:37:14 875] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:40:16 550 
+============================================================
+[2019/04/15 23:40:16 550] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:40:16 550] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(780538a0) 
+[2019/04/15 23:40:16 550] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:40:16 550] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:40:16 551] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:40:16 551] lgi        349  auth_time_str=  2019/04/15 23:40:16  
+[2019/04/15 23:40:16 551] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:40:16 553] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:40:16 553] lgi        395  token:  nil  
+[2019/04/15 23:40:16 553] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:40:16 553] lgi        511  ns_enable=  1  
+[2019/04/15 23:40:16 553] lgi        523  prot_ver=1  
+[2019/04/15 23:40:16 553] lgi        534  prot_type=tcp  
+[2019/04/15 23:40:16 553] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:42:48 458 
+============================================================
+[2019/04/15 23:42:48 458] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:42:48 459] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(7c053880) 
+[2019/04/15 23:42:48 459] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:42:48 459] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:42:48 459] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:42:48 459] lgi        349  auth_time_str=  2019/04/15 23:42:48  
+[2019/04/15 23:42:48 459] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:42:48 459] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:42:48 459] lgi        395  token:  nil  
+[2019/04/15 23:42:48 460] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:42:48 460] lgi        511  ns_enable=  1  
+[2019/04/15 23:42:48 460] lgi        523  prot_ver=1  
+[2019/04/15 23:42:48 460] lgi        534  prot_type=tcp  
+[2019/04/15 23:42:48 460] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:45:21 871 
+============================================================
+[2019/04/15 23:45:21 871] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:45:21 871] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(30053890) 
+[2019/04/15 23:45:21 871] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:45:21 872] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:45:21 872] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:45:21 872] lgi        349  auth_time_str=  2019/04/15 23:45:21  
+[2019/04/15 23:45:21 872] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:45:21 873] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:45:21 873] lgi        395  token:  nil  
+[2019/04/15 23:45:21 873] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:45:21 873] lgi        511  ns_enable=  1  
+[2019/04/15 23:45:21 873] lgi        523  prot_ver=1  
+[2019/04/15 23:45:21 873] lgi        534  prot_type=tcp  
+[2019/04/15 23:45:21 874] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:47:29 012 
+============================================================
+[2019/04/15 23:47:29 012] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:47:29 013] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(18053890) 
+[2019/04/15 23:47:29 013] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:47:29 013] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:47:29 013] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:47:29 013] lgi        349  auth_time_str=  2019/04/15 23:47:29  
+[2019/04/15 23:47:29 013] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:47:29 013] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:47:29 013] lgi        395  token:  nil  
+[2019/04/15 23:47:29 013] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:47:29 013] lgi        511  ns_enable=  1  
+[2019/04/15 23:47:29 013] lgi        523  prot_ver=1  
+[2019/04/15 23:47:29 013] lgi        534  prot_type=tcp  
+[2019/04/15 23:47:29 014] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/15 23:51:23 644 
+============================================================
+[2019/04/15 23:51:23 644] lgi        676  SYS_MSG_LOAD  
+[2019/04/15 23:51:23 644] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(800538c0) 
+[2019/04/15 23:51:23 645] lgi        292  LGI_MSG_INIT  
+[2019/04/15 23:51:23 645] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/15 23:51:23 645] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/15 23:51:23 645] lgi        349  auth_time_str=  2019/04/15 23:51:23  
+[2019/04/15 23:51:23 645] lgi        355  auth_appid=  5c7e38af  
+[2019/04/15 23:51:23 645] lgi        380  lgi ivwnet_querying  
+[2019/04/15 23:51:23 645] lgi        395  token:  nil  
+[2019/04/15 23:51:23 645] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/15 23:51:23 645] lgi        511  ns_enable=  1  
+[2019/04/15 23:51:23 645] lgi        523  prot_ver=1  
+[2019/04/15 23:51:23 645] lgi        534  prot_type=tcp  
+[2019/04/15 23:51:23 645] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 14:43:39 096 
+============================================================
+[2019/04/16 14:43:39 096] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 14:43:39 096] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(440538a0) 
+[2019/04/16 14:43:39 096] lgi        292  LGI_MSG_INIT  
+[2019/04/16 14:43:39 096] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 14:43:39 096] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 14:43:39 096] lgi        349  auth_time_str=  2019/04/16 14:43:38  
+[2019/04/16 14:43:39 096] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 14:43:39 097] lgi        380  lgi ivwnet_querying  
+[2019/04/16 14:43:39 097] lgi        395  token:  nil  
+[2019/04/16 14:43:39 097] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 14:43:39 097] lgi        511  ns_enable=  1  
+[2019/04/16 14:43:39 097] lgi        523  prot_ver=1  
+[2019/04/16 14:43:39 097] lgi        534  prot_type=tcp  
+[2019/04/16 14:43:39 097] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 14:47:53 165 
+============================================================
+[2019/04/16 14:47:53 165] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 14:47:53 166] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(d00538c0) 
+[2019/04/16 14:47:53 166] lgi        292  LGI_MSG_INIT  
+[2019/04/16 14:47:53 166] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 14:47:53 166] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 14:47:53 166] lgi        349  auth_time_str=  2019/04/16 14:47:53  
+[2019/04/16 14:47:53 166] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 14:47:53 168] lgi        380  lgi ivwnet_querying  
+[2019/04/16 14:47:53 168] lgi        395  token:  nil  
+[2019/04/16 14:47:53 168] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 14:47:53 168] lgi        511  ns_enable=  1  
+[2019/04/16 14:47:53 168] lgi        523  prot_ver=1  
+[2019/04/16 14:47:53 168] lgi        534  prot_type=tcp  
+[2019/04/16 14:47:53 168] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 14:54:49 487 
+============================================================
+[2019/04/16 14:54:49 487] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 14:54:49 488] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(e0053880) 
+[2019/04/16 14:54:49 488] lgi        292  LGI_MSG_INIT  
+[2019/04/16 14:54:49 488] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 14:54:49 488] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 14:54:49 488] lgi        349  auth_time_str=  2019/04/16 14:54:49  
+[2019/04/16 14:54:49 488] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 14:54:49 488] lgi        380  lgi ivwnet_querying  
+[2019/04/16 14:54:49 488] lgi        395  token:  nil  
+[2019/04/16 14:54:49 488] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 14:54:49 488] lgi        511  ns_enable=  1  
+[2019/04/16 14:54:49 489] lgi        523  prot_ver=1  
+[2019/04/16 14:54:49 489] lgi        534  prot_type=tcp  
+[2019/04/16 14:54:49 489] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 14:55:31 242 
+============================================================
+[2019/04/16 14:55:31 242] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 14:55:31 242] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(b0013aa0) 
+[2019/04/16 14:55:31 242] lgi        292  LGI_MSG_INIT  
+[2019/04/16 14:55:31 242] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 14:55:31 242] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 14:55:31 242] lgi        349  auth_time_str=  2019/04/16 14:55:31  
+[2019/04/16 14:55:31 242] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 14:55:31 243] lgi        380  lgi ivwnet_querying  
+[2019/04/16 14:55:31 243] lgi        395  token:  nil  
+[2019/04/16 14:55:31 243] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 14:55:31 243] lgi        511  ns_enable=  1  
+[2019/04/16 14:55:31 243] lgi        523  prot_ver=1  
+[2019/04/16 14:55:31 243] lgi        534  prot_type=tcp  
+[2019/04/16 14:55:31 243] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 14:57:17 739 
+============================================================
+[2019/04/16 14:57:17 739] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 14:57:17 740] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(7c0538a0) 
+[2019/04/16 14:57:17 740] lgi        292  LGI_MSG_INIT  
+[2019/04/16 14:57:17 740] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 14:57:17 740] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 14:57:17 740] lgi        349  auth_time_str=  2019/04/16 14:57:17  
+[2019/04/16 14:57:17 740] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 14:57:17 740] lgi        380  lgi ivwnet_querying  
+[2019/04/16 14:57:17 740] lgi        395  token:  nil  
+[2019/04/16 14:57:17 740] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 14:57:17 740] lgi        511  ns_enable=  1  
+[2019/04/16 14:57:17 740] lgi        523  prot_ver=1  
+[2019/04/16 14:57:17 740] lgi        534  prot_type=tcp  
+[2019/04/16 14:57:17 743] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 15:03:20 405 
+============================================================
+[2019/04/16 15:03:20 405] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 15:03:20 406] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(98013ac0) 
+[2019/04/16 15:03:20 406] lgi        292  LGI_MSG_INIT  
+[2019/04/16 15:03:20 406] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 15:03:20 406] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 15:03:20 406] lgi        349  auth_time_str=  2019/04/16 15:03:20  
+[2019/04/16 15:03:20 406] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 15:03:20 406] lgi        380  lgi ivwnet_querying  
+[2019/04/16 15:03:20 406] lgi        395  token:  nil  
+[2019/04/16 15:03:20 406] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 15:03:20 406] lgi        511  ns_enable=  1  
+[2019/04/16 15:03:20 406] lgi        523  prot_ver=1  
+[2019/04/16 15:03:20 406] lgi        534  prot_type=tcp  
+[2019/04/16 15:03:20 406] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 15:05:22 483 
+============================================================
+[2019/04/16 15:05:22 483] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 15:05:22 484] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(cc053880) 
+[2019/04/16 15:05:22 484] lgi        292  LGI_MSG_INIT  
+[2019/04/16 15:05:22 484] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 15:05:22 484] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 15:05:22 484] lgi        349  auth_time_str=  2019/04/16 15:05:22  
+[2019/04/16 15:05:22 484] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 15:05:22 485] lgi        380  lgi ivwnet_querying  
+[2019/04/16 15:05:22 485] lgi        395  token:  nil  
+[2019/04/16 15:05:22 485] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 15:05:22 485] lgi        511  ns_enable=  1  
+[2019/04/16 15:05:22 485] lgi        523  prot_ver=1  
+[2019/04/16 15:05:22 485] lgi        534  prot_type=tcp  
+[2019/04/16 15:05:22 485] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 15:14:23 337 
+============================================================
+[2019/04/16 15:14:23 337] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 15:14:23 338] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(bc0538a0) 
+[2019/04/16 15:14:23 338] lgi        292  LGI_MSG_INIT  
+[2019/04/16 15:14:23 338] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 15:14:23 338] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 15:14:23 338] lgi        349  auth_time_str=  2019/04/16 15:14:23  
+[2019/04/16 15:14:23 338] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 15:14:23 338] lgi        380  lgi ivwnet_querying  
+[2019/04/16 15:14:23 338] lgi        395  token:  nil  
+[2019/04/16 15:14:23 338] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 15:14:23 338] lgi        511  ns_enable=  1  
+[2019/04/16 15:14:23 338] lgi        523  prot_ver=1  
+[2019/04/16 15:14:23 338] lgi        534  prot_type=tcp  
+[2019/04/16 15:14:23 339] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 17:35:03 774 
+============================================================
+[2019/04/16 17:35:03 774] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 17:35:03 775] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(b0013aa0) 
+[2019/04/16 17:35:03 775] lgi        292  LGI_MSG_INIT  
+[2019/04/16 17:35:03 775] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 17:35:03 775] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 17:35:03 775] lgi        349  auth_time_str=  2019/04/16 17:35:03  
+[2019/04/16 17:35:03 775] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 17:35:03 775] lgi        380  lgi ivwnet_querying  
+[2019/04/16 17:35:03 776] lgi        395  token:  nil  
+[2019/04/16 17:35:03 776] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 17:35:03 776] lgi        511  ns_enable=  1  
+[2019/04/16 17:35:03 776] lgi        523  prot_ver=1  
+[2019/04/16 17:35:03 776] lgi        534  prot_type=tcp  
+[2019/04/16 17:35:03 776] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 17:38:18 202 
+============================================================
+[2019/04/16 17:38:18 202] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 17:38:18 202] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(2c013aa0) 
+[2019/04/16 17:38:18 203] lgi        292  LGI_MSG_INIT  
+[2019/04/16 17:38:18 203] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 17:38:18 203] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 17:38:18 203] lgi        349  auth_time_str=  2019/04/16 17:38:18  
+[2019/04/16 17:38:18 203] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 17:38:18 204] lgi        380  lgi ivwnet_querying  
+[2019/04/16 17:38:18 204] lgi        395  token:  nil  
+[2019/04/16 17:38:18 204] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 17:38:18 204] lgi        511  ns_enable=  1  
+[2019/04/16 17:38:18 204] lgi        523  prot_ver=1  
+[2019/04/16 17:38:18 204] lgi        534  prot_type=tcp  
+[2019/04/16 17:38:18 205] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 17:39:55 485 
+============================================================
+[2019/04/16 17:39:55 485] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 17:39:55 486] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(90013ac0) 
+[2019/04/16 17:39:55 486] lgi        292  LGI_MSG_INIT  
+[2019/04/16 17:39:55 486] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 17:39:55 486] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 17:39:55 486] lgi        349  auth_time_str=  2019/04/16 17:39:55  
+[2019/04/16 17:39:55 486] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 17:39:55 486] lgi        380  lgi ivwnet_querying  
+[2019/04/16 17:39:55 486] lgi        395  token:  nil  
+[2019/04/16 17:39:55 486] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 17:39:55 486] lgi        511  ns_enable=  1  
+[2019/04/16 17:39:55 486] lgi        523  prot_ver=1  
+[2019/04/16 17:39:55 486] lgi        534  prot_type=tcp  
+[2019/04/16 17:39:55 486] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 17:42:20 472 
+============================================================
+[2019/04/16 17:42:20 472] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 17:42:20 472] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(6c053890) 
+[2019/04/16 17:42:20 472] lgi        292  LGI_MSG_INIT  
+[2019/04/16 17:42:20 472] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 17:42:20 472] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 17:42:20 472] lgi        349  auth_time_str=  2019/04/16 17:42:20  
+[2019/04/16 17:42:20 472] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 17:42:20 474] lgi        380  lgi ivwnet_querying  
+[2019/04/16 17:42:20 474] lgi        395  token:  nil  
+[2019/04/16 17:42:20 474] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 17:42:20 474] lgi        511  ns_enable=  1  
+[2019/04/16 17:42:20 474] lgi        523  prot_ver=1  
+[2019/04/16 17:42:20 474] lgi        534  prot_type=tcp  
+[2019/04/16 17:42:20 476] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 17:45:47 324 
+============================================================
+[2019/04/16 17:45:47 324] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 17:45:47 325] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(13ac0) 
+[2019/04/16 17:45:47 325] lgi        292  LGI_MSG_INIT  
+[2019/04/16 17:45:47 325] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 17:45:47 325] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 17:45:47 325] lgi        349  auth_time_str=  2019/04/16 17:45:47  
+[2019/04/16 17:45:47 325] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 17:45:47 326] lgi        380  lgi ivwnet_querying  
+[2019/04/16 17:45:47 326] lgi        395  token:  nil  
+[2019/04/16 17:45:47 326] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 17:45:47 326] lgi        511  ns_enable=  1  
+[2019/04/16 17:45:47 326] lgi        523  prot_ver=1  
+[2019/04/16 17:45:47 326] lgi        534  prot_type=tcp  
+[2019/04/16 17:45:47 326] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 17:46:15 572 
+============================================================
+[2019/04/16 17:46:15 572] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 17:46:15 572] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(dc0538c0) 
+[2019/04/16 17:46:15 573] lgi        292  LGI_MSG_INIT  
+[2019/04/16 17:46:15 573] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 17:46:15 573] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 17:46:15 573] lgi        349  auth_time_str=  2019/04/16 17:46:15  
+[2019/04/16 17:46:15 573] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 17:46:15 573] lgi        380  lgi ivwnet_querying  
+[2019/04/16 17:46:15 573] lgi        395  token:  nil  
+[2019/04/16 17:46:15 573] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 17:46:15 573] lgi        511  ns_enable=  1  
+[2019/04/16 17:46:15 573] lgi        523  prot_ver=1  
+[2019/04/16 17:46:15 573] lgi        534  prot_type=tcp  
+[2019/04/16 17:46:15 574] lgi        685  SYS_MSG_UNLOAD  go bg!  
+============================================================
+Time  2019/04/16 17:57:33 488 
+============================================================
+[2019/04/16 17:57:33 488] lgi        676  SYS_MSG_LOAD  
+[2019/04/16 17:57:33 488] lgi        698  SYS_MSG_REGCB  msp_status_cb  func(84013aa0) 
+[2019/04/16 17:57:33 489] lgi        292  LGI_MSG_INIT  
+[2019/04/16 17:57:33 489] lgi        299  lgi  lgi_  268436457  1537256992  
+[2019/04/16 17:57:33 489] lgi        335  lgi params:  appid = 5c7e38af,work_dir = .  
+[2019/04/16 17:57:33 489] lgi        349  auth_time_str=  2019/04/16 17:57:33  
+[2019/04/16 17:57:33 489] lgi        355  auth_appid=  5c7e38af  
+[2019/04/16 17:57:33 489] lgi        380  lgi ivwnet_querying  
+[2019/04/16 17:57:33 489] lgi        395  token:  nil  
+[2019/04/16 17:57:33 489] lgi        468  msc cver : 5.0.41.1218  
+[2019/04/16 17:57:33 489] lgi        511  ns_enable=  1  
+[2019/04/16 17:57:33 489] lgi        523  prot_ver=1  
+[2019/04/16 17:57:33 489] lgi        534  prot_type=tcp  
+[2019/04/16 17:57:33 491] lgi        685  SYS_MSG_UNLOAD  go bg!  

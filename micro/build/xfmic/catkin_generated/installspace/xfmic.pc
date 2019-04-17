@@ -1,0 +1,8 @@
+prefix=/Music/qr_voice/micro/install
+
+Name: xfmic
+Description: Description of xfmic
+Version: 0.0.0
+Cflags: 
+Libs: -L/Music/qr_voice/micro/install/lib 
+Requires: 

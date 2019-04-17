@@ -1,0 +1,8 @@
+prefix=/Music/qr_voice/micro/devel
+
+Name: hori_voicecenter
+Description: Description of hori_voicecenter
+Version: 0.0.0
+Cflags: 
+Libs: -L/Music/qr_voice/micro/devel/lib 
+Requires: 
